@@ -7,4 +7,8 @@ Hola ✌️  soy el explorer **___** y este es mi blog personal donde compartir�
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
+Voy Super atrasado :D! me voe a apurar
+
+
+
 🚀
