@@ -1,21 +1,17 @@
 ---
-title: 'About me'
+title: 'Who is this guy...'
 menu:
   main:
-    name: "AboutMe"
+    name: "This dude"
 ---
 
-## Who am I
+## Yooo...
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Soy un ser mas en esta piedra voladora con rumbo desconocido,
+con ganas de retarme a mi mismo y re organizando mi trayectoria
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+Intento cosas nuevas cada vez que puedo, esta es una de esas 
+ocaciones, abrazado de mis miedos y mis sueños pero sin detenerme
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Nos vemos al final...
 
